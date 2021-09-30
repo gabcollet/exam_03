@@ -1,3 +1,4 @@
+# Exam Rank 03
 
 Your code should be in a single file ``micro_paint.c`` (or ``mini_paint.c``).  
 You can start ``test.sh`` and it will generate random good or bad examples that will be tested by ``our_micro_paint`` and **your** program.  
